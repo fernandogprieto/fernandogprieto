@@ -1,9 +1,7 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">.. Welcome to my portafolio!
-
-I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL
-
+<p align="left">
 <a href="https://github.com/fernandogprieto">
-  <img alt="GitHub" title="GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+  <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
 </a>
 <a href="https://www.linkedin.com/in/fernandogprieto/">
   <img align="left" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -14,7 +12,11 @@ I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Le
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
   <img align="left" alt="Fernando's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+</p>
 
+<br />
+
+I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL
 
 
 <!--
