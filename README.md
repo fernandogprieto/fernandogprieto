@@ -19,8 +19,9 @@
 
 <br />
 
-Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Data Analys Learning Engenieer Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Fernando, a devoted self-taught Aspirant a Data Analyst and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply machine learning and artificial intelligence in production MLOps (similar to DevOps but with ML). I honestly believe that deep learning will radically change the ways we interact with operations maybe DLOps.
 
+I'm a enthusiast a open-source. I looking to collaborate on open-source community. I like how collaboration and knowledge sharing happened through open-source.
 
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
