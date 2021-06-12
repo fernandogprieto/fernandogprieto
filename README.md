@@ -17,9 +17,6 @@
 
 <br />
 
-I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL skdafasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdfas
-
-
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
