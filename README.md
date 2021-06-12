@@ -14,7 +14,7 @@
   <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/spotify.svg" />
 </a>
   <a href="https://dev.to/fernandogprieto/">
-  <img align="left" title="Dev.to" alt="Fernando Prieto | Dev.to" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/dev-dot-to.svg" />
+  <img align="left" title="Dev.to" alt="Fernando Prieto | Dev.to" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/dev-badget-black.svg" />
 </a> 
 </p>
 
