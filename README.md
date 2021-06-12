@@ -8,7 +8,7 @@ Welcome to my portafolio!
   <img align="left" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 <a href="https://twitter.com/fernandogprieto">
-  <img align="left" alt="Fernando Gabriel Prieto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Fernando Gabriel Prieto | Twitter" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
   <img align="left" alt="Fernando's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
