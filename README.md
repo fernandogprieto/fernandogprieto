@@ -2,7 +2,7 @@
 Welcome to my portafolio!
 <p align="left">
 <a href="https://github.com/fernandogprieto">
-  <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/GitHub.svg">
+  <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/github.svg">
 </a>
 <a href="https://www.linkedin.com/in/fernandogprieto/">
   <img align="left" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
