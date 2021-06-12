@@ -11,7 +11,7 @@
   <img align="left" alt="Fernando Gabriel Prieto | Twitter" title="Twiiter" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
-  <img align="left" alt="Fernando's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Fernando's Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/spotify.svg" />
 </a>
 </p>
 
