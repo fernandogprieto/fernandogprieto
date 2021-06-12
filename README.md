@@ -1,6 +1,5 @@
 ### Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"> Welcome!! 
 
-<p align="left">
 <a href="https://www.linkedin.com/in/fernandogprieto/">
   <img align="left" title="linkedIN" alt="Fernando Prieto | LinkedIN" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/linkedin.svg" />
 </a> 
@@ -16,7 +15,7 @@
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
   <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/spotify.svg" />
 </a>
-</p>
+
 
 <br />
 I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL
