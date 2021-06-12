@@ -17,7 +17,7 @@
 
 <br />
 
-I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL
+I'm Fernando...a self-taught person I'm studyng Data Analyst focus on Machine Learning and Deeplarning.. IT Support Freelancer with a great experience.. #ITIL skdafasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdfas
 
 
 <!--
