@@ -29,6 +29,11 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 **Languages and Tools:**  
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white />
+<img alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+<img alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+
+
 
 
 <!--
