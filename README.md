@@ -36,13 +36,11 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
 <img alt ="jupyter" src="https://img.shields.io/badge/Jupyter-F16061?style=flat-square&logo=jupyter&logoColor=white" />
+<img alt ="linux" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 
-
-**Learning**
-
-
-
-
+**Learning:**  
+<img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=flat-square&logo=tensorflow&logoColor=white" />
+<img>
 
 
 <!--
