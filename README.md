@@ -5,7 +5,7 @@
   <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/fernandogprieto/">
-  <img align="left" title="linkedIN" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/linkedin.svg" />
+  <img align="left" title="linkedIN" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/linked1n.svg" />
 </a> 
 <a href="https://twitter.com/fernandogprieto">
   <img align="left" title="Twiiter" alt="Fernando Gabriel Prieto | Twitter"  width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/twitter.svg" />
