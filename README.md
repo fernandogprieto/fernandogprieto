@@ -18,10 +18,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=fernandogprieto/fernandogprieto)
 
 <br />
-
+<p align="justify"
 Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Data Analyst and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply machine learning and artificial intelligence in production MLOps (similar to DevOps but with ML). I honestly believe that deep learning will radically change the ways we interact with operations maybe DLOps.
 
 I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
+</p>
 
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
