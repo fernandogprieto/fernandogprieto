@@ -21,7 +21,7 @@
 
 Hi, I'm Fernando, a devoted self-taught Aspirant a Data Analyst and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply machine learning and artificial intelligence in production MLOps (similar to DevOps but with ML). I honestly believe that deep learning will radically change the ways we interact with operations maybe DLOps.
 
-I'm a enthusiast a open-source. I looking to collaborate on open-source community. I like how collaboration and knowledge sharing happened through open-source.
+I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
 
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
