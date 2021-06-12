@@ -26,7 +26,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 - 📫 You can contact me through my [social media](https://twitter.com/fernandogprieto).
 - 💬 Ask me some questions, I'm glad to help;
 
-**Languages and Tools:**  
+**Languages, Tools and Skills:**  
 <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -39,6 +39,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="linux" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 <img alt ="LaTeX" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+<img alt="softskills" src="https://img.shields.io/badge/non--technical-soft%20skills-lightgrey" />
 
 **Learning:**  
 <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=flat-square&logo=tensorflow&logoColor=white" />
