@@ -1,18 +1,18 @@
 ### Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"> Welcome!! 
 <a href="https://www.linkedin.com/in/fernandogprieto/">
-  <img align="left" title="linkedIN" alt="Fernando Prieto | LinkedIN" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/linkedin.svg" />
+  <img align="left" title="linkedIN" alt="Fernando Prieto | LinkedIN" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/linkedin.svg" />
 </a> 
 <a href="https://twitter.com/fernandogprieto">
-  <img align="left" title="Twiiter" alt="Fernando Gabriel Prieto | Twitter"  width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/twitter.svg" />
+  <img align="left" title="Twiiter" alt="Fernando Gabriel Prieto | Twitter"  width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/twitter.svg" />
 </a>
 <a href="https://dev.to/fernandogprieto/">
-  <img align="left" title="Dev.to" alt="Fernando Prieto | Dev.to" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/dev-badge.svg" />
+  <img align="left" title="Dev.to" alt="Fernando Prieto | Dev.to" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/dev-badge.svg" />
 </a> 
 <a href="https://github.com/fernandogprieto">
-  <img align="left" alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/github.svg" />
+  <img align="left" alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/github.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
-  <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/spotify.svg" />
+  <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=fernandogprieto/fernandogprieto)
