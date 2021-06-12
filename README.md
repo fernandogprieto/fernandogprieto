@@ -37,10 +37,17 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
 <img alt ="jupyter" src="https://img.shields.io/badge/Jupyter-F16061?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt ="linux" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+<img alt ="LaTeX" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 **Learning:**  
 <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=flat-square&logo=tensorflow&logoColor=white" />
 <img>
+<img alt="lfce" src="https://img.shields.io/badge/LCFE-Linux%20Fundation%20Certificate%20Engineer%20-yellowgreen" />
+
+**My GitHub stats:**  
+
+[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandogprieto&theme=blue-green)](https://github.com/fernandogprieto/github-readme-stats)
 
 
 <!--
