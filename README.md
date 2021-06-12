@@ -15,8 +15,11 @@
   <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/icons/spotify.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=fernandogprieto/fernandogprieto)
+
 <br />
 
+test
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
