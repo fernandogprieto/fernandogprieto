@@ -1,7 +1,7 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">.. Welcome to my portafolio!
 <p align="left">
 <a href="https://github.com/fernandogprieto">
-  <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/icons/github.svg">
+  <img alt="GitHub" title="GitHub" height="22" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/icons/GitHub.svg">
 </a>
 <a href="https://www.linkedin.com/in/fernandogprieto/">
   <img align="left" alt="Fernando Prieto LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
