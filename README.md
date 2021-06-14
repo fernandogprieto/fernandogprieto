@@ -37,6 +37,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
 <img alt ="jupyter" src="https://img.shields.io/badge/Jupyter-F16061?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt ="linux" src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+<img alt ="Slack" src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 <img alt ="LaTeX" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
 <img alt="Colab" src="https://img.shields.io/badge/google_colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
