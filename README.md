@@ -41,12 +41,16 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="LaTeX" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
 <img alt="Colab" src="https://img.shields.io/badge/google_colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
 <img alt="softskills" src="https://img.shields.io/badge/non--technical-soft%20skills-lightgrey" />
 
 **Learning:**  
 <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=flat-square&logo=tensorflow&logoColor=white" />
 <img>
-<img alt="lfce" src="https://img.shields.io/badge/LCFE-Linux%20Fundation%20Certificate%20Engineer%20-yellowgreen" />
+<img alt="CKA" src="https://img.shields.io/badge/CKA-Certificate%20Kubernetes%20Administrator%20-yellowgreen" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 **My GitHub stats:**  
 
