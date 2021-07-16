@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Data Analyst and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply machine learning and artificial intelligence in production MLOps (similar to DevOps but with ML). I honestly believe that deep learning will radically change the ways we interact with operations maybe DLOps.
+Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Certificate Kubernetes Adminstrator and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply machine learning and artificial intelligence in production MLOps (similar to DevOps but with ML). I honestly believe that deep learning will radically change the ways we interact with operations maybe DLOps.
 
 I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
 
