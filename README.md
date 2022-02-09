@@ -47,8 +47,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt="softskills" src="https://img.shields.io/badge/non--technical-soft%20skills-lightgrey" />
 
 **Learning:**  
-<img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FA7343?style=flat-square&logo=tensorflow&logoColor=white" />
-<img>
 <img alt="CKA" src="https://img.shields.io/badge/CKA-Certificate%20Kubernetes%20Administrator%20-yellowgreen" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
 
