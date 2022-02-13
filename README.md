@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=fernandogprieto/fernandogprieto)
 
 <br />
-Test
+
 Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Certificate Kubernetes Adminstrator and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply a set of practices to optimize the systems development life cycle and provide continuous delivery with high software quality. SRE/DevOps.
 
 I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
@@ -49,6 +49,8 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 **Learning:**  
 <img alt="CKA" src="https://img.shields.io/badge/CKA-Certificate%20Kubernetes%20Administrator%20-yellowgreen" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
+
+I want to learn sql(Postgressql y Mysql), no-sql(MongoDB), Yaml, ANsible, terraforms, GPC, Azure, AWS. PYTHON WITH YAML
 
 **My GitHub stats:**  
 
