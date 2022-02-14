@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Certificate Kubernetes Adminstrator and IT Support Specialist freelance from Venezuela with ITIL process experience. My purpose is to apply a set of practices to optimize the systems development life cycle and provide continuous delivery with high software quality. SRE/DevOps.
+Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Certificate Kubernetes Adminstrator and IT Support Specialist from Venezuela with ITIL process experience. My purpose is to apply a set of practices to optimize the systems development life cycle and provide continuous delivery with high software quality. SRE/DevOps.
 
 I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
 
