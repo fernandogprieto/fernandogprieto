@@ -57,6 +57,8 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 
 
 **I want to Learn:**
+Ruby on rails
+
 <img alt ="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
 <img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
