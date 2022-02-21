@@ -31,7 +31,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="pyton" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt ="jupyter" src="https://img.shields.io/badge/Jupyter-F16061?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt ="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" />
@@ -45,6 +44,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 
 **Learning:**  
 <img alt="cka" src="https://img.shields.io/badge/CKA-Certificate%20Kubernetes%20Administrator%20-yellowgreen" />
+<img alt="pyton" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
 <img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
