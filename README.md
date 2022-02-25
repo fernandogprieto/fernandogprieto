@@ -41,7 +41,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt="opensource" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" />
 <img alt="softskills" src="https://img.shields.io/badge/non--technical-soft%20skills-lightgrey" />
 
-
 **Learning:**  
 <img alt="cka" src="https://img.shields.io/badge/CKA-Certificate%20Kubernetes%20Administrator%20-yellowgreen" />
 <img alt="pyton" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -55,7 +54,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 <img alt ="vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" />
 
-**I want to Learn:**
+**I want to learn:**
 <img alt ="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
 <img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -64,9 +63,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt="rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white" />
 
 **My GitHub stats:**  
-
 [![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandogprieto&theme=blue-green)](https://github.com/fernandogprieto/github-readme-stats)
-
 
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
