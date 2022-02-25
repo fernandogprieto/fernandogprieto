@@ -46,16 +46,16 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt="pyton" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-<img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img alt="gpc" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
+<img alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt ="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
 <img alt ="bash script" src="https://img.shields.io/badge/Bash_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
 <img alt ="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white" />
 <img alt ="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 <img alt ="vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" />
 
-**I want to learn:**
-<img alt ="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
+**I want to learn:**  
 <img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
