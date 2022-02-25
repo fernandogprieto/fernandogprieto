@@ -55,7 +55,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 <img alt ="vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" />
 
-
 **I want to Learn:**
 <img alt ="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
 <img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
@@ -63,6 +62,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
 <img alt ="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white" />
+
 **My GitHub stats:**  
 
 [![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandogprieto&theme=blue-green)](https://github.com/fernandogprieto/github-readme-stats)
