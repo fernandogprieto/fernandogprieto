@@ -34,6 +34,7 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="jupyter" src="https://img.shields.io/badge/Jupyter-F16061?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt ="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" />
+<img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt ="slack" src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 <img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
 <img alt ="latex" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
@@ -56,7 +57,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white" />
 
 **I want to learn:**  
-<img alt ="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 <img alt ="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt ="mysql" src="https://img.shields.io/badge/MySQL-0095D5?&style=flat-square&logo=mysql&logoColor=white" />
 <img alt ="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
