@@ -62,9 +62,6 @@ I'm an enthusiast an open-source maintainer. I looking to collaborate on an open
 <img alt ="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white" />
 
-**My GitHub stats:**  
-[![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandogprieto&theme=blue-green)](https://github.com/fernandogprieto/github-readme-stats)
-
 <!--
 **fernandogprieto/fernandogprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
