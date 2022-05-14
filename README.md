@@ -5,6 +5,9 @@
 <a href="https://twitter.com/fernandogprieto">
   <img align="left" title="Twiiter" alt="Fernando Gabriel Prieto | Twitter"  width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/twitter.svg" />
 </a>
+<a href="https://gitlab.com/fernandogprieto/">
+  <img align="left" title="GitLab" alt="GitLab" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/gitlab.svg" />
+</a>
 <a href="https://open.spotify.com/playlist/0wavDWJWITh01PbqcUYdfv?si=d6dd8756606546af">
   <img align="left" title="Spotify" alt="Fernando | Spotify" width="22px" src="https://raw.githubusercontent.com/fernandogprieto/fernandogprieto/master/assets/spotify.svg" />
 </a>
@@ -16,7 +19,7 @@
 Hi, I'm Fernando Gabriel Prieto, a devoted self-taught Aspirant a Certificate Kubernetes Adminstrator and IT Support Specialist from Venezuela with ITIL process experience. My purpose is to apply a set of practices to optimize the systems development life cycle and provide continuous delivery with high software quality. SRE/DevOps.
 
 I'm an enthusiast an open-source maintainer. I looking to collaborate on an open-source community. I enjoy how teamwork and shared knowledge happen in this community.
-
+- 🤔 Looking for personal repos? Those can be found on [GitLab](https://gitlab.com/fernandogprieto).
 - 📫 You can contact me through my [social media](https://twitter.com/fernandogprieto).
 - 💬 Ask me some questions, I'm glad to help;
 
