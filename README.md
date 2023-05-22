@@ -5,23 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/fernandogprieto" target="blank"><img src="https://img.shields.io/twitter/follow/fernandogprieto?logo=twitter&style=for-the-badge" alt="fernandogprieto" /></a> </p>
 
-- 🔭 I’m currently working on [cloud resume challenge](https://gitlab.com/fernandogprieto/cloud-resume-challenge-frontend)
-
+- 🔭 I’m currently working on [Cloud resume challenge](https://gitlab.com/fernandogprieto/cloud-resume-challenge-frontend)
 - 🌱 I’m currently learning **Azure, GCP, AWS**
-
 - 👯 I’m looking to collaborate on **cloud projects**
-
 - 🤝 I’m looking for help with **Cloud Engineer**
-
 - 👨‍💻 All of my projects are available at [https://www.fernandogprieto.com/projects](https://www.fernandogprieto.com/projects)
-
 - 📝 I regularly write articles on [https://www.fernandogprieto.com/blog](https://www.fernandogprieto.com/blog)
-
-- 💬 Ask me about **kubernetes, cloud, microservices, linux**
-
+- 💬 Ask me about **kubernetes, cloud, microservices, linux, terraform**
 - 📫 How to reach me **prieto.fernandog@gmail.com**
-
-- 📄 Know about my experiences [https://www.fernandogprieto.com/about](https://www.fernandogprieto.com/about)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fernando-prieto-carabobo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
