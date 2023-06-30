@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">IT Support Specialist | IT Consultant & IT Advisor | Engineering | Customer Service | Cloud Computing Training</h3>
+<h3 align="center">IT Support Specialist | IT Consultant | Engineering | Customer Service | Cloud Computing Training</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogprieto&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogprieto" /> </p>
 
