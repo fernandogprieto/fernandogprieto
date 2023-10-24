@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on [https://www.fernandogprieto.com/blog](https://www.fernandogprieto.com/blog)
 - 💬 Ask me about **kubernetes, multi-cloud, microservices, linux, terraform**
 - 📫 How to reach me **prieto.fernandog@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fernando-prieto-carabobo/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fernandogprieto)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
