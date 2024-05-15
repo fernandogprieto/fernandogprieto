@@ -1,6 +1,5 @@
 ## Hello 👋, I'm Fernando
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogprieto&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogprieto" /> </p>
+![](https://komarev.com/ghpvc/?username=fernandogprieto&style=plastic)
 
 - 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI enthusiast 
 - 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
@@ -9,11 +8,9 @@
 
 ## Find me 
 <p align="left">
-<a href="https://dev.to/fernandogprieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandogprieto" height="30" width="40" /></a>
-<a href="https://twitter.com/fernandogprieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandogprieto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fernando-prieto-carabobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-prieto-carabobo" height="30" width="40" /></a>
-<a href="https://discord.gg/n6Xwz5XtRS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="n6Xwz5XtRS" height="30" width="40" /></a>
-<a href="/https://www.fernandogprieto.com/blog/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.fernandogprieto.com/blog/rss.xml" height="30" width="40" /></a>
+  <a href="https://github.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 
