@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogprieto&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogprieto" /> </p>
 
-- 👯 I’m looking to collaborate on **cloud projects**
-- 🤝 I’m looking for help with **Cloud Engineer**
+- 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI enthusiast 
 - 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,windows,powershell,linux,bash,docker,kubernetes,prometheus,terraform,vscode,neovim,latex&perline=20)](https://skillicons.dev)
