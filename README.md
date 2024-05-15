@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandogprieto&show_icons=true&locale=en&layout=compact" alt="fernandogprieto" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandogprieto&show_icons=true&locale=en" alt="fernandogprieto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandogprieto&" alt="fernandogprieto" /></p>
@@ -38,3 +40,9 @@
 fernandogprieto/fernandogprieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://raw.githubusercontent.com/fernandogprieto/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fernandogprieto/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/fernandogprieto/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fernandogprieto/github-stats/master/generated/languages.svg#gh-light-mode-only)
