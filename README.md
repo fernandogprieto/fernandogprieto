@@ -4,8 +4,9 @@
 
 - 👯 I’m looking to collaborate on **cloud projects**
 - 🤝 I’m looking for help with **Cloud Engineer**
-- 📫 How to reach me **prieto.fernandog@gmail.com**
+- 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,windows,powershell,linux,bash,docker,kubernetes,prometheus,terraform,vscode,neovim,latex&perline=20)](https://skillicons.dev)
 
 ## Find me 
 <p align="left">
