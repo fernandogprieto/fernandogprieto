@@ -8,8 +8,8 @@
 
 ## Find me 
 <p align="left">
-  <a href="https://github.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=github" height=45 withd=45 /></a>
-  <a href="https://linkedin.com/in/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height=45 withd=45 /></a>
+  <a href="https://github.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=github" height=43 withd=43 /></a>
+  <a href="https://linkedin.com/in/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height=40 withd=40 /></a>
   <a href="https://twitter.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height=45 withd=45 /></a>
 </p>
 
