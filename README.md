@@ -4,7 +4,7 @@
 - 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI enthusiast 
 - 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,windows,powershell,linux,bash,docker,kubernetes,prometheus,terraform,githubactions,gitlab,nginx,python,vscode,neovim,latex&per line=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,windows,powershell,linux,bash,docker,kubernetes,prometheus,terraform,githubactions,gitlab,nginx,python,vscode,neovim,latex&per line=10)](https://skillicons.dev)
 
 ## Find me 
 <p align="left">
