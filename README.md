@@ -8,9 +8,9 @@
 
 ## Find me 
 <p align="left">
-  <a href="https://github.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=github" height=40 withd=40 /></a>
-  <a href="https://linkedin.com/in/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height=40 withd=40 /></a>
-  <a href="https://twitter.com/fernandogprieto" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height=40 withd=40 /></a>
+  <a href="https://github.com/fernandogprieto" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=40 withd=40 /></a>
+  <a href="https://linkedin.com/in/fernandogprieto" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=40 withd=40 /></a>
+  <a href="https://twitter.com/fernandogprieto" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=40 withd=40 /></a>
 </p>
 
 ![](https://raw.githubusercontent.com/fernandogprieto/github-stats/master/generated/overview.svg#gh-dark-mode-only)
