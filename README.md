@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=fernandogprieto&style=plastic) <br>
 [![committers.top badge](https://user-badge.committers.top/venezuela_public/fernandogprieto.svg)](https://user-badge.committers.top/venezuela_public/fernandogprieto)
 
-- 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI enthusiast 
+- 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI Enthusiast 
 - 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,windows,powershell,linux,bash,yaml,docker,kubernetes,prometheus,helm,terraform,git,githubactions,gitlab,nginx,vercel,python,vscode,neovim,jira,latex,vagrant)
