@@ -1,6 +1,7 @@
 ## Hello 👋, I'm Fernando
 ![](https://komarev.com/ghpvc/?username=fernandogprieto&style=plastic) <br>
-[![committers.top badge](https://user-badge.committers.top/venezuela_public/fernandogprieto.svg)](https://user-badge.committers.top/venezuela_public/fernandogprieto)
+[![committers.top badge](https://user-badge.committers.top/venezuela_private/fernandogprieto.svg)](https://user-badge.committers.top/venezuela_private/fernandogprieto)
+
 
 - 🧑🏻‍💻 Cloud Infrastructure, Microservices, AI Enthusiast 
 - 📫 How to reach me [prieto.fernandog@gmail.com](mailto:prieto.fernandog@gmail.com)
